@@ -2,5 +2,5 @@
 Collection of labs and Experimentation written for Compsci 2XB3
 
 # Other Credits
-Rupen Patel and
-Javid Husselyny
+Thanks to both Rupen Patel and
+Javid Husselyny for collaborating on these.
